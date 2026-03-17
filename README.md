@@ -1,5 +1,7 @@
 Robotics & tech enthusiast 🤖
+
 Exploring AI, embedded systems, and software development.
+
 Building, learning, and experimenting every day.
 
 # 💻 Tech Stack:
